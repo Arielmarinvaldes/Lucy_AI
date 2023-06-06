@@ -1,0 +1,2 @@
+spotify,C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.200.1165.0_x86__zpdnekdrzrea0\Spotify.exe
+whatsapp,C:\Users\amval\AppData\Local\WhatsApp.exe

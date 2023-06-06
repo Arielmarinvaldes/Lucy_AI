@@ -1,0 +1,6 @@
+google,google.com
+youtube,youtube.com
+instagram,https://www.instagram.com/ariel_fw_01/
+stackoverflow,stackoverflow.com
+facebook,facebook.com
+whatsapp,web.whatsapp.com
